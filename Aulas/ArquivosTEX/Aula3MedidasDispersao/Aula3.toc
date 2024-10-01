@@ -1,0 +1,3 @@
+\babel@toc {brazil}{}\relax 
+\beamer@sectionintoc {1}{Medidas de Dispersão}{3}{0}{1}
+\beamer@sectionintoc {2}{Associação entre Variáveis Quantitativas}{15}{0}{2}

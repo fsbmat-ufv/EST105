@@ -1,0 +1,515 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global}
+    \entry{ardorseo}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=ddfec8fb9e3aeaeb5e6a898921f1bd0f}{%
+           family={ardorseo},
+           familyi={a\bibinitperiod}}}%
+      }
+      \strng{namehash}{ddfec8fb9e3aeaeb5e6a898921f1bd0f}
+      \strng{fullhash}{ddfec8fb9e3aeaeb5e6a898921f1bd0f}
+      \strng{bibnamehash}{ddfec8fb9e3aeaeb5e6a898921f1bd0f}
+      \strng{authorbibnamehash}{ddfec8fb9e3aeaeb5e6a898921f1bd0f}
+      \strng{authornamehash}{ddfec8fb9e3aeaeb5e6a898921f1bd0f}
+      \strng{authorfullhash}{ddfec8fb9e3aeaeb5e6a898921f1bd0f}
+      \field{sortinit}{a}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{11 Search Statistics You Need to Know in 2021}
+      \field{year}{2021}
+      \verb{urlraw}
+      \verb https://ardorseo.com/blog/how-many-google-searches-per-day/
+      \endverb
+      \verb{url}
+      \verb https://ardorseo.com/blog/how-many-google-searches-per-day/
+      \endverb
+    \endentry
+    \entry{TwitterStats}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=89c900bb839a44d8ecf1e7f1eabd06cc}{%
+           family={Aslam},
+           familyi={A\bibinitperiod},
+           given={Salman},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{89c900bb839a44d8ecf1e7f1eabd06cc}
+      \strng{fullhash}{89c900bb839a44d8ecf1e7f1eabd06cc}
+      \strng{bibnamehash}{89c900bb839a44d8ecf1e7f1eabd06cc}
+      \strng{authorbibnamehash}{89c900bb839a44d8ecf1e7f1eabd06cc}
+      \strng{authornamehash}{89c900bb839a44d8ecf1e7f1eabd06cc}
+      \strng{authorfullhash}{89c900bb839a44d8ecf1e7f1eabd06cc}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Twitter by the Numbers: Stats, Demographics \& Fun Facts}
+      \field{year}{2021}
+      \verb{urlraw}
+      \verb https://www.omnicoreagency.com/twitter-statistics/
+      \endverb
+      \verb{url}
+      \verb https://www.omnicoreagency.com/twitter-statistics/
+      \endverb
+    \endentry
+    \entry{datareportal}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=9d071640ea27ac3927d9bc5d0a7aa4b8}{%
+           family={datareportal},
+           familyi={d\bibinitperiod}}}%
+      }
+      \strng{namehash}{9d071640ea27ac3927d9bc5d0a7aa4b8}
+      \strng{fullhash}{9d071640ea27ac3927d9bc5d0a7aa4b8}
+      \strng{bibnamehash}{9d071640ea27ac3927d9bc5d0a7aa4b8}
+      \strng{authorbibnamehash}{9d071640ea27ac3927d9bc5d0a7aa4b8}
+      \strng{authornamehash}{9d071640ea27ac3927d9bc5d0a7aa4b8}
+      \strng{authorfullhash}{9d071640ea27ac3927d9bc5d0a7aa4b8}
+      \field{sortinit}{d}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{DIGITAL AROUND THE WORLD}
+      \field{year}{2021}
+      \verb{urlraw}
+      \verb https://datareportal.com/global-digital-overview
+      \endverb
+      \verb{url}
+      \verb https://datareportal.com/global-digital-overview
+      \endverb
+    \endentry
+    \entry{WhatsappStats}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=5743bf7ea45ab2c1ee29c94a1af6af70}{%
+           family={Dean},
+           familyi={D\bibinitperiod},
+           given={Brian},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{5743bf7ea45ab2c1ee29c94a1af6af70}
+      \strng{fullhash}{5743bf7ea45ab2c1ee29c94a1af6af70}
+      \strng{bibnamehash}{5743bf7ea45ab2c1ee29c94a1af6af70}
+      \strng{authorbibnamehash}{5743bf7ea45ab2c1ee29c94a1af6af70}
+      \strng{authornamehash}{5743bf7ea45ab2c1ee29c94a1af6af70}
+      \strng{authorfullhash}{5743bf7ea45ab2c1ee29c94a1af6af70}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{WhatsApp 2021 User Statistics: How Many People Use WhatsApp?}
+      \field{year}{2021}
+      \verb{urlraw}
+      \verb https://backlinko.com/whatsapp-users
+      \endverb
+      \verb{url}
+      \verb https://backlinko.com/whatsapp-users
+      \endverb
+    \endentry
+    \entry{eric}{book}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=02b107ba4c045c764057a3261a4aa312}{%
+           family={Ferreira},
+           familyi={F\bibinitperiod},
+           given={Eric\bibnamedelima Batista},
+           giveni={E\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3dd8fb3c82cc8be9cad6be5a2ce48e54}{%
+           family={Oliveira},
+           familyi={O\bibinitperiod},
+           given={Marcelo\bibnamedelimb Silva\bibnamedelima de},
+           giveni={M\bibinitperiod\bibinitdelim S\bibinitperiod\bibinitdelim d\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Editora Universidade Federal de Alfenas}%
+      }
+      \strng{namehash}{e0adca686017b329aea02baa8cbec85d}
+      \strng{fullhash}{e0adca686017b329aea02baa8cbec85d}
+      \strng{bibnamehash}{e0adca686017b329aea02baa8cbec85d}
+      \strng{authorbibnamehash}{e0adca686017b329aea02baa8cbec85d}
+      \strng{authornamehash}{e0adca686017b329aea02baa8cbec85d}
+      \strng{authorfullhash}{e0adca686017b329aea02baa8cbec85d}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Introdução à Estatística com R}
+      \field{year}{2020}
+      \verb{urlraw}
+      \verb https://www.unifal-mg.edu.br/bibliotecas/wp-content/uploads/sites/125/2021/12/32-EBR_Unifal.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.unifal-mg.edu.br/bibliotecas/wp-content/uploads/sites/125/2021/12/32-EBR_Unifal.pdf
+      \endverb
+    \endentry
+    \entry{exame14}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=35f991fb1d31b0a9deadd2dc4ccf4542}{%
+           family={Grego},
+           familyi={G\bibinitperiod},
+           given={Maurício},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{35f991fb1d31b0a9deadd2dc4ccf4542}
+      \strng{fullhash}{35f991fb1d31b0a9deadd2dc4ccf4542}
+      \strng{bibnamehash}{35f991fb1d31b0a9deadd2dc4ccf4542}
+      \strng{authorbibnamehash}{35f991fb1d31b0a9deadd2dc4ccf4542}
+      \strng{authornamehash}{35f991fb1d31b0a9deadd2dc4ccf4542}
+      \strng{authorfullhash}{35f991fb1d31b0a9deadd2dc4ccf4542}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Conteúdo digital dobra a cada dois anos no mundo}
+      \field{year}{2014}
+      \verb{urlraw}
+      \verb https://exame.abril.com.br/tecnologia/conteudo-digital-dobra-a-cada-dois-anos-no-mundo/
+      \endverb
+      \verb{url}
+      \verb https://exame.abril.com.br/tecnologia/conteudo-digital-dobra-a-cada-dois-anos-no-mundo/
+      \endverb
+    \endentry
+    \entry{huff2016mentir}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=1a3caf268a9ec7b70416dec2c3094028}{%
+           family={Huff},
+           familyi={H\bibinitperiod},
+           given={Darrell},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Editora Intrínseca}%
+      }
+      \strng{namehash}{1a3caf268a9ec7b70416dec2c3094028}
+      \strng{fullhash}{1a3caf268a9ec7b70416dec2c3094028}
+      \strng{bibnamehash}{1a3caf268a9ec7b70416dec2c3094028}
+      \strng{authorbibnamehash}{1a3caf268a9ec7b70416dec2c3094028}
+      \strng{authornamehash}{1a3caf268a9ec7b70416dec2c3094028}
+      \strng{authorfullhash}{1a3caf268a9ec7b70416dec2c3094028}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Como mentir com estatística}
+      \field{year}{2016}
+    \endentry
+    \entry{internetstats}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=f43099625ad996a9f8b5c645651ff54a}{%
+           family={{internet live stats}},
+           familyi={i\bibinitperiod}}}%
+      }
+      \strng{namehash}{f43099625ad996a9f8b5c645651ff54a}
+      \strng{fullhash}{f43099625ad996a9f8b5c645651ff54a}
+      \strng{bibnamehash}{f43099625ad996a9f8b5c645651ff54a}
+      \strng{authorbibnamehash}{f43099625ad996a9f8b5c645651ff54a}
+      \strng{authornamehash}{f43099625ad996a9f8b5c645651ff54a}
+      \strng{authorfullhash}{f43099625ad996a9f8b5c645651ff54a}
+      \field{extraname}{1}
+      \field{sortinit}{i}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Real Time Statistics Project}
+      \field{year}{2021}
+      \verb{urlraw}
+      \verb https://www.internetlivestats.com/
+      \endverb
+      \verb{url}
+      \verb https://www.internetlivestats.com/
+      \endverb
+    \endentry
+    \entry{internetstats2}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=f43099625ad996a9f8b5c645651ff54a}{%
+           family={{internet live stats}},
+           familyi={i\bibinitperiod}}}%
+      }
+      \strng{namehash}{f43099625ad996a9f8b5c645651ff54a}
+      \strng{fullhash}{f43099625ad996a9f8b5c645651ff54a}
+      \strng{bibnamehash}{f43099625ad996a9f8b5c645651ff54a}
+      \strng{authorbibnamehash}{f43099625ad996a9f8b5c645651ff54a}
+      \strng{authornamehash}{f43099625ad996a9f8b5c645651ff54a}
+      \strng{authorfullhash}{f43099625ad996a9f8b5c645651ff54a}
+      \field{extraname}{2}
+      \field{sortinit}{i}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Total number of Websites}
+      \field{year}{2021}
+      \verb{urlraw}
+      \verb https://www.internetlivestats.com/total-number-of-websites/
+      \endverb
+      \verb{url}
+      \verb https://www.internetlivestats.com/total-number-of-websites/
+      \endverb
+    \endentry
+    \entry{morettin2017estatistica}{book}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=70f26ddd0d107049a3c02a4d23349e46}{%
+           family={Morettin},
+           familyi={M\bibinitperiod},
+           given={Pedro\bibnamedelima Alberto},
+           giveni={P\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a38bf70a1b35e6a020a46361a4d998f8}{%
+           family={Bussab},
+           familyi={B\bibinitperiod},
+           given={Wilton\bibnamedelima Oliveira},
+           giveni={W\bibinitperiod\bibinitdelim O\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Saraiva Educação}%
+      }
+      \strng{namehash}{cfaea42cff0c336fcd0e09e96ae81349}
+      \strng{fullhash}{cfaea42cff0c336fcd0e09e96ae81349}
+      \strng{bibnamehash}{cfaea42cff0c336fcd0e09e96ae81349}
+      \strng{authorbibnamehash}{cfaea42cff0c336fcd0e09e96ae81349}
+      \strng{authornamehash}{cfaea42cff0c336fcd0e09e96ae81349}
+      \strng{authorfullhash}{cfaea42cff0c336fcd0e09e96ae81349}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Estatística básica}
+      \field{year}{2017}
+    \endentry
+    \entry{InstagramStats}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=9c162f3e2cfadf6290923924df30eca2}{%
+           family={Newberry},
+           familyi={N\bibinitperiod},
+           given={Christina},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{9c162f3e2cfadf6290923924df30eca2}
+      \strng{fullhash}{9c162f3e2cfadf6290923924df30eca2}
+      \strng{bibnamehash}{9c162f3e2cfadf6290923924df30eca2}
+      \strng{authorbibnamehash}{9c162f3e2cfadf6290923924df30eca2}
+      \strng{authornamehash}{9c162f3e2cfadf6290923924df30eca2}
+      \strng{authorfullhash}{9c162f3e2cfadf6290923924df30eca2}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{44 Instagram Stats That Matter to Marketers in 2021}
+      \field{year}{2021}
+      \verb{urlraw}
+      \verb https://blog.hootsuite.com/instagram-statistics/
+      \endverb
+      \verb{url}
+      \verb https://blog.hootsuite.com/instagram-statistics/
+      \endverb
+    \endentry
+    \entry{exame17}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=c9b2ab0620cc6a8cd8c3fe95e628579b}{%
+           family={Oliveira},
+           familyi={O\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{c9b2ab0620cc6a8cd8c3fe95e628579b}
+      \strng{fullhash}{c9b2ab0620cc6a8cd8c3fe95e628579b}
+      \strng{bibnamehash}{c9b2ab0620cc6a8cd8c3fe95e628579b}
+      \strng{authorbibnamehash}{c9b2ab0620cc6a8cd8c3fe95e628579b}
+      \strng{authornamehash}{c9b2ab0620cc6a8cd8c3fe95e628579b}
+      \strng{authorfullhash}{c9b2ab0620cc6a8cd8c3fe95e628579b}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Chamam de Big Data, mas deveria ser Best Data}
+      \field{year}{2017}
+      \verb{urlraw}
+      \verb https://exame.abril.com.br/blog/relacionamento-antes-do-marketing/chamam-de-big-data-mas-deveria-ser-best-data/
+      \endverb
+      \verb{url}
+      \verb https://exame.abril.com.br/blog/relacionamento-antes-do-marketing/chamam-de-big-data-mas-deveria-ser-best-data/
+      \endverb
+    \endentry
+    \entry{roteiro}{book}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=f302008a536c5eb9553f3a0532ef4a6e}{%
+           family={Regazzi},
+           familyi={R\bibinitperiod},
+           given={Adair\bibnamedelima José},
+           giveni={A\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=379b481d5038de333bef0a39ade1d1f3}{%
+           family={Silva},
+           familyi={S\bibinitperiod},
+           given={Carlos\bibnamedelimb Henrique\bibnamedelima Osório},
+           giveni={C\bibinitperiod\bibinitdelim H\bibinitperiod\bibinitdelim O\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0dd990a9e3802f25458fa90117d73c94}{%
+           family={Santos},
+           familyi={S\bibinitperiod},
+           given={Gerson\bibnamedelimb Rodrigues\bibnamedelima dos},
+           giveni={G\bibinitperiod\bibinitdelim R\bibinitperiod\bibinitdelim d\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ad577a38a79af04bf0b5e805b1459892}{%
+           family={Emiliano},
+           familyi={E\bibinitperiod},
+           given={Paulo\bibnamedelima César},
+           giveni={P\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=12eaccd26e0e5fc50f91a94d8779606d}{%
+           family={Barbosa},
+           familyi={B\bibinitperiod},
+           given={Eduardo\bibnamedelima Campana},
+           giveni={E\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{84388c84df7e17ea9fcfdb89f5158840}
+      \strng{fullhash}{3099fea16e97b2352dce0bbb9dfb6ff1}
+      \strng{bibnamehash}{3099fea16e97b2352dce0bbb9dfb6ff1}
+      \strng{authorbibnamehash}{3099fea16e97b2352dce0bbb9dfb6ff1}
+      \strng{authornamehash}{84388c84df7e17ea9fcfdb89f5158840}
+      \strng{authorfullhash}{3099fea16e97b2352dce0bbb9dfb6ff1}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{labeldatesource}{nodate}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Disponível no PVANet - Moodle}
+      \field{title}{Roteiro de Aulas (EST 105)}
+    \endentry
+    \entry{statista}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=0a12e78ec65c811df75fb06b0c092143}{%
+           family={statista},
+           familyi={s\bibinitperiod}}}%
+      }
+      \strng{namehash}{0a12e78ec65c811df75fb06b0c092143}
+      \strng{fullhash}{0a12e78ec65c811df75fb06b0c092143}
+      \strng{bibnamehash}{0a12e78ec65c811df75fb06b0c092143}
+      \strng{authorbibnamehash}{0a12e78ec65c811df75fb06b0c092143}
+      \strng{authornamehash}{0a12e78ec65c811df75fb06b0c092143}
+      \strng{authorfullhash}{0a12e78ec65c811df75fb06b0c092143}
+      \field{sortinit}{s}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Global digital population as of January 2021 (in billions)}
+      \field{year}{2021}
+      \verb{urlraw}
+      \verb https://www.statista.com/statistics/617136/digital-population-worldwide/
+      \endverb
+      \verb{url}
+      \verb https://www.statista.com/statistics/617136/digital-population-worldwide/
+      \endverb
+    \endentry
+    \entry{seedscientific}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=2bb27fa577638be01664d682206f35a6}{%
+           family={Vuleta},
+           familyi={V\bibinitperiod},
+           given={Branka},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{2bb27fa577638be01664d682206f35a6}
+      \strng{fullhash}{2bb27fa577638be01664d682206f35a6}
+      \strng{bibnamehash}{2bb27fa577638be01664d682206f35a6}
+      \strng{authorbibnamehash}{2bb27fa577638be01664d682206f35a6}
+      \strng{authornamehash}{2bb27fa577638be01664d682206f35a6}
+      \strng{authorfullhash}{2bb27fa577638be01664d682206f35a6}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{How Much Data Is on the Internet?}
+      \field{year}{2021}
+      \verb{urlraw}
+      \verb https://seedscientific.com/how-much-data-is-created-every-day/
+      \endverb
+      \verb{url}
+      \verb https://seedscientific.com/how-much-data-is-created-every-day/
+      \endverb
+    \endentry
+    \entry{youtube}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=970cfba66b8380fb97b742e4571356c6}{%
+           family={Youtube},
+           familyi={Y\bibinitperiod}}}%
+      }
+      \strng{namehash}{970cfba66b8380fb97b742e4571356c6}
+      \strng{fullhash}{970cfba66b8380fb97b742e4571356c6}
+      \strng{bibnamehash}{970cfba66b8380fb97b742e4571356c6}
+      \strng{authorbibnamehash}{970cfba66b8380fb97b742e4571356c6}
+      \strng{authornamehash}{970cfba66b8380fb97b742e4571356c6}
+      \strng{authorfullhash}{970cfba66b8380fb97b742e4571356c6}
+      \field{sortinit}{Y}
+      \field{sortinithash}{fd67ad5a9ef0f7456bdd9aab10fe1495}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{year}{2021}
+      \verb{urlraw}
+      \verb https://www.youtube.com/intl/pt-BR/about/press/
+      \endverb
+      \verb{url}
+      \verb https://www.youtube.com/intl/pt-BR/about/press/
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

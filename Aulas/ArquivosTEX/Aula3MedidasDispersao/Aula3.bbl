@@ -1,0 +1,73 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global}
+    \entry{roteiro}{book}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=f302008a536c5eb9553f3a0532ef4a6e}{%
+           family={Regazzi},
+           familyi={R\bibinitperiod},
+           given={Adair\bibnamedelima José},
+           giveni={A\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=379b481d5038de333bef0a39ade1d1f3}{%
+           family={Silva},
+           familyi={S\bibinitperiod},
+           given={Carlos\bibnamedelimb Henrique\bibnamedelima Osório},
+           giveni={C\bibinitperiod\bibinitdelim H\bibinitperiod\bibinitdelim O\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0dd990a9e3802f25458fa90117d73c94}{%
+           family={Santos},
+           familyi={S\bibinitperiod},
+           given={Gerson\bibnamedelimb Rodrigues\bibnamedelima dos},
+           giveni={G\bibinitperiod\bibinitdelim R\bibinitperiod\bibinitdelim d\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ad577a38a79af04bf0b5e805b1459892}{%
+           family={Emiliano},
+           familyi={E\bibinitperiod},
+           given={Paulo\bibnamedelima César},
+           giveni={P\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=12eaccd26e0e5fc50f91a94d8779606d}{%
+           family={Barbosa},
+           familyi={B\bibinitperiod},
+           given={Eduardo\bibnamedelima Campana},
+           giveni={E\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{84388c84df7e17ea9fcfdb89f5158840}
+      \strng{fullhash}{3099fea16e97b2352dce0bbb9dfb6ff1}
+      \strng{bibnamehash}{3099fea16e97b2352dce0bbb9dfb6ff1}
+      \strng{authorbibnamehash}{3099fea16e97b2352dce0bbb9dfb6ff1}
+      \strng{authornamehash}{84388c84df7e17ea9fcfdb89f5158840}
+      \strng{authorfullhash}{3099fea16e97b2352dce0bbb9dfb6ff1}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{labeldatesource}{nodate}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Disponível no PVANet - Moodle}
+      \field{title}{Roteiro de Aulas (EST 105)}
+      \true{nocite}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

@@ -1,0 +1,17 @@
+[0] Config.pm:306> INFO - This is Biber 2.18
+[0] Config.pm:309> INFO - Logfile is 'Teste1.blg'
+[167] biber-MSWIN32:340> INFO - === 
+[232] Biber.pm:418> INFO - Reading 'Teste1.bcf'
+[413] Biber.pm:978> INFO - Found 2 citekeys in bib section 0
+[436] Biber.pm:4401> INFO - Processing section 0
+[455] Biber.pm:4592> INFO - Looking for bibtex file 'Referencias.bib' for section 0
+[532] bibtex.pm:1713> INFO - LaTeX decoding ...
+[566] bibtex.pm:1518> INFO - Found BibTeX data source 'Referencias.bib'
+[639] UCollate.pm:68> INFO - Overriding locale 'pt-BR' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[639] UCollate.pm:68> INFO - Overriding locale 'pt-BR' defaults 'variable = shifted' with 'variable = non-ignorable'
+[639] Biber.pm:4221> INFO - Sorting list 'nyt/global//global/global' of type 'entry' with template 'nyt' and locale 'pt-BR'
+[639] Biber.pm:4227> INFO - No sort tailoring available for locale 'pt-BR'
+[643] bbl.pm:654> INFO - Writing 'Teste1.bbl' with encoding 'UTF-8'
+[646] bbl.pm:757> INFO - Output to Teste1.bbl
+[646] Biber.pm:130> WARN - BibTeX subsystem: C:\Users\Admin\AppData\Local\Temp\biber_tmp_Z1mn\a20f060712aedbb6689faee50de82126_10368.utf8, line 151, warning: undefined macro "Julho"
+[647] Biber.pm:132> INFO - WARNINGS: 1

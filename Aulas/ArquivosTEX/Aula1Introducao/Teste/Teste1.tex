@@ -1,0 +1,31 @@
+\documentclass{beamer}
+
+\usepackage[brazil]{babel}
+\usepackage[utf8]{inputenc}
+\usepackage{csquotes}
+\usepackage{geometry}
+\usepackage{amssymb}   %superseds latexsym   
+\usepackage{graphicx}
+\usepackage[style = authoryear,
+			%style = bwl-FU,
+			maxcitenames = 2,
+			terseinits = true,
+			natbib = true, 
+			maxbibnames = 99]{biblatex}
+\addbibresource{Referencias.bib}
+
+
+\begin{document}
+
+\begin{frame}
+
+teste \cite{Morettin09}
+
+The citation test \cite{roteiro}\\
+\end{frame}
+
+\begin{frame}
+\printbibliography
+\end{frame}
+
+\end{document}
