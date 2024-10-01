@@ -25,7 +25,7 @@
 \usepackage{multirow}
 \usepackage{multicol}
 \usepackage{csquotes}
-\usepackage[style = abnt,
+\usepackage[style=authoryear,
 			%style = bwl-FU,
 			maxcitenames = 2,
 			terseinits = true,
@@ -124,191 +124,132 @@
 \tableofcontents
 \end{frame}
 
-\section{Preliminares}
-\begin{frame}{}
-\frametitle{}
-\begin{block}{}
-\justifying
-Em alguma fase de seu trabalho, o pesquisador depara-se com o problema de analisar e entender um conjunto de dados relevante ao seu particular objeto de estudos. Ele necessitará trabalhar os dados para transformá-los em informações, para compará-los com outros resultados, ou ainda para julgar sua adequação a alguma teoria.
-
-\end{block}
-\end{frame}
-
-\begin{frame}{}
-\frametitle{}
-\begin{block}{}
-\justifying
-\begin{center}
-\Large{\bf{Não Tem Como Escapar dos Dados!}}
-\end{center}
-\end{block}
-\end{frame}
-
-\begin{frame}{}
-\frametitle{}
-\begin{block}{}
-\justifying
-\begin{figure}[H]
-    \centering
-    \caption{Era do Big Data}
-    \includegraphics[scale=0.3]{figs/BigData.jpg}
-    \subcaption*{\textbf{Fonte:} Revista Exame 2017 \citet{exame17}}
-    %\label{figRotulo}
-  \end{figure}
-\end{block}
-\end{frame}
-
-\begin{frame}{}
-\frametitle{}
-\begin{block}{}
-\justifying
-\begin{itemize}
-\item Google: são mais de 5,5 bilhões de buscas por dia \cite{ardorseo}.\pause
-\item \citet{youtube}: mais de 2 bilhões de usuários e são assistidas mais de 1 bilhão de horas de vídeos por dia.\pause
-\item Facebook: Há picos de 2,8 bilhões de usuários ativos diariamente \cite{internetstats}.\pause
-\item Instagram: Mais de 1 bilhão de usuários, mais de 500 milhões de pessoas usam o \textit{stories} todos os dias \cite{InstagramStats}.\pause
-\item WhatsApp: mais de 100 bilhões de mensagens por dia e mais de 2 bilhões de usuários \cite{WhatsappStats}.\pause
-\item Twitter: 500 milhões de tweets por dia e 340 milhões de usuários ativos \cite{TwitterStats}.
-\end{itemize}
-\end{block}
-\end{frame}
-
-\begin{frame}{}
-\frametitle{}
-\begin{block}{}
-\justifying
-\begin{itemize}
-\item Internet: mais de 1,8 bilhões de sites \cite{internetstats2} e 4,6 bilhões de pessoas conectadas \cite{statista}.\pause
-\item Telefones celulares: mais de 5,7 bilhões \cite{datareportal}.\pause
-\item Dispositivos conectados: serão 50 bilhões em 2030 \cite{statista}.\pause
-\item De acordo com \citet{seedscientific}, em 2025, a quantidade de dados gerados a cada dia deve chegar a 463 exabytes ($10^{18} bytes$) globalmente.
-\end{itemize}
-\end{block}
-\end{frame}
-
-\begin{frame}{}
-\frametitle{}
-\begin{block}{}
-\justifying
-A IDC (empresa líder em inteligência de mercado e consultoria nas indústrias de tecnologia da informação, telecomunicações e mercados de consumo em massa de tecnologia) estimou, em 2014, que do total de dados no mundo, $22\%$ contêm informação útil. E apenas $5\%$ foram analisados e utilizados de alguma forma \cite{exame14}.
-\end{block}
-\end{frame}
-
-% \begin{frame}{}
-% \frametitle{}
-% \begin{block}{}
-% \justifying
-% Como processar tanta informação? Como gerar informação a partir dos dados? Essa não é uma tarefa fácil, é necessário, anos de estudo e variadas competências, Estatística, Matemática, Ciência da Computação e diversas outras. Mas o profissional que tem conhecimento estatístico e sabe avaliar processos ou prever possíveis resultados a partir da analise de bancos de dados é um dos profissionais mais requisitados na atualidade e recebe os maiores salários!
-%   \end{block}
-% \end{frame}
-% 
-% \begin{frame}{}
-% \frametitle{}
-% \begin{block}{Engenheiro ou Cientista de Dados}
-% \begin{itemize}
-% \justifying
-% \item {\bf O que faz:} combina habilidades em negócios e estatística. É o profissional responsável por solucionar problemas do negócio com técnicas de orientação a dados, bem como detectar tendências que podem ajudar nos resultados de uma empresa.
-% \item {\bf Perfil:} qualificações estatísticas, matemáticas e curiosidade para fazer descobertas em big data.
-% \item {\bf Salário:} R\$ 6 mil a R\$ 14 mil\\
-% \end{itemize}
-% {\bf Fonte:} \url{https://www.salario.com.br/profissao/cientista-de-dados-data-scientist/}, visitado em junho de 2021.
-% \end{block}
-% \end{frame}
-% 
-% 
-% \begin{frame}{}
-% \frametitle{}
-% \begin{block}{}
-% \justifying
-% Você precisa ser especialista em Estatística ou Matemática ou mesmo ter feito uma graduação nestas áreas? \pause A resposta é {\bf não}. \pause Apesar dessas áreas permitirem uma compreensão mais abrangente, é possível aprender os conceitos necessários para o que você precisa e aplica-los ao longo da sua jornada de aprendizagem. \textbf{Você não precisa aprender todos os tópicos relacionados à Estatística ou Matemática}.
-% 
-% {\bf Fonte:} \url{http://datascienceacademy.com.br/blog/cientista-de-dados-por-onde-comecar-em-8-passos/}
-% \end{block}
-% \end{frame}
-
 \section{Introdução}
 \begin{frame}{}
-\frametitle{Introdução}
-\begin{block}{}
-\justifying
-Estatística é a ciência que nos ajuda a tomar decisões e tirar conclusões na presença de variabilidade, é uma maneira de raciocinar que pode ajudar você a tomar decisões mais bem fundamentadas e pode ajuda-lo a solucionar problemas que envolvem decisões que estão baseadas em dados que tenham sido coletados.
-\end{block}
-%\pause
-%\begin{block}{}
-%\justifying
-%Vamos seguir uma \textbf{regra} fundamental:
-%``A Estatística deve simplificar, não complicar a interpretação dos dados''.
-%\end{block}
+	\frametitle{}
+	\begin{block}{}
+		\justifying
+		\textit{``Você já parou para pensar em como os dados moldam a nossa realidade? Em cada etapa do seu trabalho ou estudo, em algum momento você vai se deparar com a necessidade de entender e interpretar dados. Seja na comparação de resultados, na confirmação de uma hipótese ou no desenvolvimento de uma nova ideia, os dados estarão sempre presentes, e saber como trabalhá-los será sua ferramenta mais poderosa.''}
+	\end{block}
 \end{frame}
 
 \begin{frame}{}
-\frametitle{Introdução}
-%\begin{block}{}
-%\justifying
-%Ressalto que a Estatística é a ciência que ensina a ``ESCUTAR'' os dados, não é uma ciência para provar alguma coisa em relação ao que você deseja que os dados digam!
-%\end{block}
-%\pause
-\begin{block}{}
-\justifying
-A estatística é a arte de torturar os números até que eles confessem!
-*Como mentir com estatísticas \cite{huff2016mentir} (reedição de 1954)
-\end{block}
-%\pause
-%\begin{block}{}
-%\justifying
-%O pensamento estatístico será um dia tão necessário para uma cidadania eficiente quanto a capacidade de ler e escrever! Citação do discurso presidencial em 1951 do estatístico matemático Samuel S. Wilks (1906 - 1964) à American Statistical Association encontrado em ``JASA'', vol. 46, No. 253., pp. 1-18. 
-%\end{block}
-%\pause
-%\begin{block}{}
-%\justifying
-%Leiam também \citet{super16}!
-%\end{block}
+	\frametitle{}
+	\begin{block}{}
+		\justifying
+		\begin{center}
+			\Large{\bf{Dados: Não dá para fugir deles!}}
+		\end{center}
+	\end{block}
 \end{frame}
 
 \begin{frame}{}
-\frametitle{Introdução}
-\begin{block}{}
-\justifying
-Na primeira parte deste curso estaremos interessados em:
-\begin{itemize}
-\item Reduzir ou organizar, limpar e resumir, analisar e interpretar dados!
-\end{itemize}
-\end{block}
-\pause
-\begin{block}{}
-\justifying
-Essa será a parte inicial do curso denominada Análise exploratória de dados (AED). Queremos nessa fase obter dos dados a maior
-quantidade possível de informação, para indicar modelos plausíveis a serem utilizados
-na inferência estatística.
-\end{block}
+	\frametitle{}
+	\begin{block}{}
+		\justifying
+		\begin{figure}[H]
+			\centering
+			\caption{Vivemos na Era do Big Data}
+			\includegraphics[scale=0.2]{figs/BigData.jpg}
+			\subcaption*{\textbf{Fonte:} Revista Exame 2017 \citet{exame17}}
+		\end{figure}
+		\textit{``Imagine que, a cada segundo, milhares de dados são gerados no mundo inteiro. Vamos explorar esse universo de informações e aprender a tirar o melhor proveito dele!''}
+	\end{block}
 \end{frame}
 
 \begin{frame}{}
-\frametitle{Introdução}
-\begin{block}{}
-\justifying
-Vamos aprender e calcular algumas medidas de posição e de variabilidade. E aprender técnicas gráficas para a análise exploratória de dados. 
-\end{block}
+	\frametitle{}
+	\begin{block}{}
+		\justifying
+		\textbf{Alguns números impressionantes para vocês pensarem:}
+		\begin{itemize}
+			\item Google: mais de 5,5 bilhões de buscas por dia \cite{ardorseo}.\pause
+			\item \citet{youtube}: mais de 2 bilhões de usuários e mais de 1 bilhão de horas de vídeos assistidos por dia.\pause
+			\item Facebook: picos de 2,8 bilhões de usuários ativos diariamente \cite{internetstats}.\pause
+			\item Instagram: Mais de 500 milhões de usuários diários utilizando o \textit{stories} \cite{InstagramStats}.\pause
+			\item WhatsApp: mais de 100 bilhões de mensagens trocadas todos os dias \cite{WhatsappStats}.\pause
+			\item Twitter: 500 milhões de tweets por dia \cite{TwitterStats}.
+		\end{itemize}
+		\textit{``A era digital está aqui, e cada clique seu gera um dado. Vamos aprender a navegar por esse oceano de informações?''}
+	\end{block}
 \end{frame}
 
 \begin{frame}{}
-\frametitle{Modelos}
-\begin{block}{}
-\justifying
-Vamos utilizar:
-\begin{itemize}
-    \item \citetitle{roteiro}.
-    \item (Sugestão de Livro) \citetitle{morettin2017estatistica} dos autores Wilton de Oliveira Bussab e Pedro Alberto Morettin;
-    \item (Sugestão de Livro) 
-    \citetitle{eric} dos autores Eric Batista Ferreira e Marcelo Silva de Oliveira.
-\end{itemize}
-\end{block}
+	\frametitle{}
+	\begin{block}{}
+		\justifying
+		\begin{itemize}
+			\item Mais de 1,8 bilhões de sites e 4,6 bilhões de pessoas conectadas \cite{internetstats2}.\pause
+			\item 5,7 bilhões de celulares ativos no mundo \cite{datareportal}.\pause
+			\item Em 2030, teremos 50 bilhões de dispositivos conectados \cite{statista}.\pause
+			\item Em 2025, a quantidade de dados gerados diariamente chegará a 463 exabytes \cite{seedscientific}.
+		\end{itemize}
+		\textit{``Esses números podem parecer assustadores, mas a Estatística vai te ajudar a colocar ordem nesse caos de dados!''}
+	\end{block}
+\end{frame}
+
+
+\begin{frame}{}
+	\frametitle{Introdução}
+	\begin{block}{}
+		\justifying
+		\textbf{Estatística: Uma ferramenta poderosa!} A estatística nos permite tomar decisões inteligentes com base em dados. Com ela, você pode solucionar problemas de forma fundamentada e objetiva. Vamos explorar como ela pode ser aplicada em diversas situações do nosso dia a dia.
+	\end{block}
+\end{frame}
+
+\begin{frame}{}
+	\frametitle{Introdução}
+	\begin{block}{}
+		\justifying
+		\textit{``A estatística é a arte de torturar os números até que eles confessem!''}\\
+		*Como mentir com estatísticas \cite{huff2016mentir} (reedição de 1954)
+		\begin{itemize}
+			\item \textbf{Curiosidade:} A estatística pode ser usada para contar a verdade... ou para enganar! Vamos aprender como usá-la da maneira correta.
+		\end{itemize}
+	\end{block}
+\end{frame}
+
+\begin{frame}{}
+	\frametitle{Introdução}
+	\begin{block}{}
+		\justifying
+		Na primeira parte deste curso, nosso objetivo será:
+		\begin{itemize}
+			\item Organizar e interpretar dados de forma eficiente!
+			\item Limpar e resumir os dados para facilitar a análise!
+		\end{itemize}
+		\pause
+		\textbf{Essa é a base da Análise Exploratória de Dados (AED)}, onde vamos descobrir padrões e informações importantes escondidas nos números.
+	\end{block}
+\end{frame}
+
+\begin{frame}{}
+	\frametitle{Introdução}
+	\begin{block}{}
+		\justifying
+		Vamos aprender a calcular medidas de posição e variabilidade, e também usar técnicas gráficas para entender melhor os dados. Essa é a etapa inicial para a construção de modelos e inferências estatísticas!
+	\end{block}
+\end{frame}
+
+\begin{frame}{}
+	\frametitle{Referências do Curso:}
+	\begin{block}{}
+		\justifying
+		Vamos utilizar:
+		\begin{itemize}
+			\item \citetitle{roteiro}.
+			\item (Sugestão de Livro) \citetitle{morettin2017estatistica} dos autores Wilton de Oliveira Bussab e Pedro Alberto Morettin;
+			\item (Sugestão de Livro) 
+			\citetitle{eric} dos autores Eric Batista Ferreira e Marcelo Silva de Oliveira.
+		\end{itemize}
+	\end{block}
 \end{frame}
 
 
 \begin{frame}[allowframebreaks]
 \frametitle{\bf Referências}
-\printbibliography
+\justifying
+\printbibliography[heading=none]
 \end{frame}
 
 

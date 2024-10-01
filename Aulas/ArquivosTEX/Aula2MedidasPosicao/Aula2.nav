@@ -15,44 +15,43 @@
 \headcommand {\beamer@subsectionentry {0}{1}{2}{7}{Mediana}}
 \headcommand {\slideentry {1}{2}{1}{7/7}{Mediana}{0}}
 \headcommand {\beamer@framepages {7}{7}}
-\headcommand {\slideentry {1}{2}{2}{8/8}{Mediana}{0}}
+\headcommand {\beamer@subsectionpages {7}{7}}
+\headcommand {\beamer@subsectionentry {0}{1}{3}{8}{Média Aritmética}}
+\headcommand {\slideentry {1}{3}{1}{8/8}{Média Aritmética}{0}}
 \headcommand {\beamer@framepages {8}{8}}
-\headcommand {\beamer@subsectionpages {7}{8}}
-\headcommand {\beamer@subsectionentry {0}{1}{3}{9}{Média Aritmética}}
-\headcommand {\slideentry {1}{3}{1}{9/9}{Média Aritmética}{0}}
+\headcommand {\slideentry {1}{3}{2}{9/9}{Média Aritmética}{0}}
 \headcommand {\beamer@framepages {9}{9}}
-\headcommand {\slideentry {1}{3}{2}{10/10}{Média Aritmética}{0}}
+\headcommand {\beamer@subsectionpages {8}{9}}
+\headcommand {\beamer@subsectionentry {0}{1}{4}{10}{Comparando Medidas de Posição}}
+\headcommand {\slideentry {1}{4}{1}{10/10}{Comparando Medidas de Posição}{0}}
 \headcommand {\beamer@framepages {10}{10}}
-\headcommand {\slideentry {1}{3}{3}{11/11}{Média Aritmética}{0}}
+\headcommand {\slideentry {1}{4}{2}{11/11}{Comparando Medidas de Posição}{0}}
 \headcommand {\beamer@framepages {11}{11}}
-\headcommand {\slideentry {1}{3}{4}{12/12}{Média Aritmética}{0}}
-\headcommand {\beamer@framepages {12}{12}}
-\headcommand {\beamer@sectionpages {3}{12}}
-\headcommand {\beamer@subsectionpages {9}{12}}
-\headcommand {\sectionentry {2}{Propriedades Importantes}{13}{Propriedades Importantes}{0}}
-\headcommand {\beamer@subsectionpages {13}{12}}
-\headcommand {\beamer@subsectionentry {0}{2}{1}{13}{Média Aritmética}}
-\headcommand {\slideentry {2}{1}{1}{13/15}{Média Aritmética}{0}}
-\headcommand {\beamer@framepages {13}{15}}
-\headcommand {\slideentry {2}{1}{2}{16/18}{Média Aritmética}{0}}
-\headcommand {\beamer@framepages {16}{18}}
-\headcommand {\slideentry {2}{1}{3}{19/21}{Média Aritmética}{0}}
-\headcommand {\beamer@framepages {19}{21}}
-\headcommand {\beamer@subsectionpages {13}{21}}
-\headcommand {\beamer@subsectionentry {0}{2}{2}{22}{Mediana}}
-\headcommand {\slideentry {2}{2}{1}{22/23}{Mediana}{0}}
-\headcommand {\beamer@framepages {22}{23}}
-\headcommand {\beamer@subsectionpages {22}{23}}
-\headcommand {\beamer@subsectionentry {0}{2}{3}{24}{Moda}}
-\headcommand {\slideentry {2}{3}{1}{24/25}{Moda}{0}}
-\headcommand {\beamer@framepages {24}{25}}
-\headcommand {\beamer@sectionpages {13}{25}}
-\headcommand {\beamer@subsectionpages {24}{25}}
-\headcommand {\sectionentry {3}{Refer\^encias}{26}{Refer\^encias}{0}}
-\headcommand {\slideentry {3}{0}{0}{26/26}{Moda}{0}}
+\headcommand {\beamer@sectionpages {3}{11}}
+\headcommand {\beamer@subsectionpages {10}{11}}
+\headcommand {\sectionentry {2}{Propriedades Importantes}{12}{Propriedades Importantes}{0}}
+\headcommand {\beamer@subsectionpages {12}{11}}
+\headcommand {\beamer@subsectionentry {0}{2}{1}{12}{Média Aritmética}}
+\headcommand {\slideentry {2}{1}{1}{12/14}{Média Aritmética}{0}}
+\headcommand {\beamer@framepages {12}{14}}
+\headcommand {\slideentry {2}{1}{2}{15/17}{Média Aritmética}{0}}
+\headcommand {\beamer@framepages {15}{17}}
+\headcommand {\slideentry {2}{1}{3}{18/20}{Média Aritmética}{0}}
+\headcommand {\beamer@framepages {18}{20}}
+\headcommand {\beamer@subsectionpages {12}{20}}
+\headcommand {\beamer@subsectionentry {0}{2}{2}{21}{Mediana}}
+\headcommand {\slideentry {2}{2}{1}{21/22}{Mediana}{0}}
+\headcommand {\beamer@framepages {21}{22}}
+\headcommand {\beamer@subsectionpages {21}{22}}
+\headcommand {\beamer@subsectionentry {0}{2}{3}{23}{Moda}}
+\headcommand {\slideentry {2}{3}{1}{23/24}{Moda}{0}}
+\headcommand {\beamer@framepages {23}{24}}
+\headcommand {\slideentry {2}{3}{2}{25/25}{Moda}{0}}
+\headcommand {\beamer@framepages {25}{25}}
+\headcommand {\slideentry {2}{3}{3}{26/26}{Moda}{0}}
 \headcommand {\beamer@framepages {26}{26}}
 \headcommand {\beamer@partpages {1}{26}}
-\headcommand {\beamer@subsectionpages {24}{26}}
-\headcommand {\beamer@sectionpages {13}{26}}
+\headcommand {\beamer@subsectionpages {23}{26}}
+\headcommand {\beamer@sectionpages {12}{26}}
 \headcommand {\beamer@documentpages {26}}
 \headcommand {\gdef \inserttotalframenumber {16}}

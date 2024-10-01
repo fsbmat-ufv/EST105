@@ -1,3 +1,2 @@
 \babel@toc {brazil}{}\relax 
-\beamer@sectionintoc {1}{Preliminares}{3}{0}{1}
-\beamer@sectionintoc {2}{Introdução}{17}{0}{2}
+\beamer@sectionintoc {1}{Introdução}{3}{0}{1}

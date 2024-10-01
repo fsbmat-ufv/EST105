@@ -2,8 +2,9 @@
 \beamer@sectionintoc {1}{Medidas de Posição}{3}{0}{1}
 \beamer@subsectionintoc {1}{1}{Moda}{5}{0}{1}
 \beamer@subsectionintoc {1}{2}{Mediana}{7}{0}{1}
-\beamer@subsectionintoc {1}{3}{Média Aritmética}{9}{0}{1}
-\beamer@sectionintoc {2}{Propriedades Importantes}{13}{0}{2}
-\beamer@subsectionintoc {2}{1}{Média Aritmética}{13}{0}{2}
-\beamer@subsectionintoc {2}{2}{Mediana}{22}{0}{2}
-\beamer@subsectionintoc {2}{3}{Moda}{24}{0}{2}
+\beamer@subsectionintoc {1}{3}{Média Aritmética}{8}{0}{1}
+\beamer@subsectionintoc {1}{4}{Comparando Medidas de Posição}{10}{0}{1}
+\beamer@sectionintoc {2}{Propriedades Importantes}{12}{0}{2}
+\beamer@subsectionintoc {2}{1}{Média Aritmética}{12}{0}{2}
+\beamer@subsectionintoc {2}{2}{Mediana}{21}{0}{2}
+\beamer@subsectionintoc {2}{3}{Moda}{23}{0}{2}
